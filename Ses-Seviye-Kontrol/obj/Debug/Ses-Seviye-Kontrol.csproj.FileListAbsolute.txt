@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses-Seviye-Kontrol.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses-Seviye-Kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses_Seviye_Kontrol.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses_Seviye_Kontrol.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses-Seviye-Kontrol.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses-Seviye-Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\bin\Debug\Ses-Seviye-Kontrol.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\bin\Debug\Ses-Seviye-Kontrol.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\bin\Debug\Ses-Seviye-Kontrol.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses-Seviye-Kontrol.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Ses-Seviye-Kontrol\Ses-Seviye-Kontrol\obj\Debug\Ses-Seviye-Kontrol.pdb
